@@ -59,7 +59,7 @@ body, h1 a {
 
 .limiter {
   max-width: 640px;
-  min-width: 370px;
+  min-width: 340px;
   padding-left: 20px;
   padding-right: 20px;
   margin-left: auto;
